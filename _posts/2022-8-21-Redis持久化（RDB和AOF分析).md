@@ -1,4 +1,15 @@
-Redis持久化方案
+---
+layout:     post
+title:      Redis持久化（RDB和AOF分析）
+subtitle:   Redis持久化
+date:       2022-8-24
+author:     十岁卖切糕、
+header-img: img/post-bg-rwd.jpg
+catalog:   true
+tags:
+    - Blog
+---
+## Redis持久化方案
 Redis有两种数据持久化方案
 
  - RDB持久化
